@@ -1,0 +1,12 @@
+{
+  "name": "set-up",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "bourbon": "~4.2.2",
+    "neat": "~1.7.2",
+    "normalize-css-sass": "~3.0.4",
+    "velocity": "~1.2.2",
+    "fastclick": "~1.0.6"
+  }
+}
